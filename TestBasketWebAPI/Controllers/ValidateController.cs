@@ -39,7 +39,7 @@ namespace TestBasketWebAPI.Controllers
             if (Request == null)
                 return false;
 
-            if (this.DbContext.TrustedDomains.Where(x => x.AcceptRequests && Request.Host.Host.StartsWith(x.Domain)).FirstOrDefault() == null)
+            if (this.DbContext.TrustedDomains.Count() > 0 && this.DbContext.TrustedDomains.Where(x => x.AcceptRequests && Request.Host.Host.StartsWith(x.Domain)).FirstOrDefault() == null)
                 return false;
 
             try
