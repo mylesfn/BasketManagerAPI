@@ -1,0 +1,63 @@
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.deps.json
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.runtimeconfig.json
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.runtimeconfig.dev.json
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.dll
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.pdb
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.Views.dll
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.Views.pdb
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.csprojResolveAssemblyReference.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.csproj.CoreCompileInputs.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorAssemblyInfo.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorAssemblyInfo.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.AssemblyInfoInputs.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.AssemblyInfo.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.TagHelpers.input.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.TagHelpers.output.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorCoreGenerate.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorTargetAssemblyInfo.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorTargetAssemblyInfo.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.Views.pdb
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.dll
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.pdb
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.csproj.CopyComplete
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingBasket.dll
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingBasket.pdb
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.deps.json
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.runtimeconfig.json
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.runtimeconfig.dev.json
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.dll
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.pdb
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.Views.dll
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingWebsiteTest.Views.pdb
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingBasket.dll
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\bin\Debug\netcoreapp2.1\ShoppingBasket.pdb
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.csprojAssemblyReference.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.csproj.CoreCompileInputs.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorAssemblyInfo.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorAssemblyInfo.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.AssemblyInfoInputs.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.AssemblyInfo.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.TagHelpers.input.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.TagHelpers.output.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorCoreGenerate.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorTargetAssemblyInfo.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.RazorTargetAssemblyInfo.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.Views.pdb
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.csproj.CopyComplete
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.dll
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingWebsiteTest\obj\Debug\netcoreapp2.1\ShoppingWebsiteTest.pdb

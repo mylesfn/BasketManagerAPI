@@ -1,0 +1,18 @@
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingBasket\bin\Debug\netcoreapp2.1\ShoppingBasket.deps.json
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingBasket\bin\Debug\netcoreapp2.1\ShoppingBasket.dll
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingBasket\bin\Debug\netcoreapp2.1\ShoppingBasket.pdb
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.csproj.CoreCompileInputs.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.AssemblyInfoInputs.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.AssemblyInfo.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.dll
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.pdb
+C:\Users\Myles\source\repos\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.csprojResolveAssemblyReference.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingBasket\bin\Debug\netcoreapp2.1\ShoppingBasket.deps.json
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingBasket\bin\Debug\netcoreapp2.1\ShoppingBasket.dll
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingBasket\bin\Debug\netcoreapp2.1\ShoppingBasket.pdb
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.csprojAssemblyReference.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.csproj.CoreCompileInputs.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.AssemblyInfoInputs.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.AssemblyInfo.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.dll
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\ShoppingBasket\obj\Debug\netcoreapp2.1\ShoppingBasket.pdb

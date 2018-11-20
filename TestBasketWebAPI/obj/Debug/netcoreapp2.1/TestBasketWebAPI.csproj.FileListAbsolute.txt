@@ -1,0 +1,33 @@
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.deps.json
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.runtimeconfig.json
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.runtimeconfig.dev.json
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.dll
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.pdb
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\ShoppingBasket.dll
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\ShoppingBasket.pdb
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.RazorAssemblyInfo.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.RazorAssemblyInfo.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.AssemblyInfoInputs.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.AssemblyInfo.cs
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.dll
+C:\Users\Myles\source\repos\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.pdb
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.deps.json
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.runtimeconfig.json
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.runtimeconfig.dev.json
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.dll
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\TestBasketWebAPI.pdb
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\ShoppingBasket.dll
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\bin\Debug\netcoreapp2.1\ShoppingBasket.pdb
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.csprojAssemblyReference.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.RazorAssemblyInfo.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.RazorAssemblyInfo.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.AssemblyInfoInputs.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.AssemblyInfo.cs
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.csproj.CopyComplete
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.dll
+C:\Users\mfidler-nolan\Desktop\New folder\NO NAME\TestBasketWebAPI\TestBasketWebAPI\obj\Debug\netcoreapp2.1\TestBasketWebAPI.pdb
